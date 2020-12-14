@@ -37,6 +37,13 @@ Progress:
 * New: Home Assistant integration
 
 
+Considerations for CO2 Sensor:
+-----------------------------
+* Minimum readings each 15 minutes.
+* After 1 year you need recalibrate sensor.
+* Each 2 years replace sensor.
+
+
 Resources:
 ---------
 * [IAQ Rating Index](http://www.iaquk.org.uk/ESW/Files/IAQ_Rating_Index.pdf) (english)
