@@ -10,6 +10,7 @@ Goals:
 * Comprehensible air quality level indicator (good-green, fair-yellow, bad-red)
 * History records
 * Graphics
+* Portable (battery included)
 
 
 Hardware (first version):
