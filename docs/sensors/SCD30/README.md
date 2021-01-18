@@ -7,3 +7,6 @@ Arduino libraries:
 
 Python library: 
 * https://pypi.org/project/scd30/
+
+Manufacturer source code:
+* https://github.com/Sensirion/embedded-scd/releases/latest
