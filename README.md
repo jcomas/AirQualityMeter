@@ -17,7 +17,8 @@ Hardware (first version):
 ------------------------
 * [M5Stack Core2 ESP32 IoT Development Kit](https://docs.m5stack.com/#/en/core/core2?id=m5core2)
 * [TVOC/eCO2 Gas Sensor Unit (SGP30)](https://docs.m5stack.com/#/en/unit/tvoc?id=tvoceco2)
-* [ENV II Unit with Temperature Humidity Environment Sensor (SHT30+BMP280)](https://docs.m5stack.com/#/en/unit/envII?id=env-ii)
+* MOX CO2 Sensor: [ENV II Unit with Temperature Humidity Environment Sensor (SHT30+BMP280)](https://docs.m5stack.com/#/en/unit/envII?id=env-ii)
+* NDIR CO2 Sensors: Sensirion SCD30, SenseAir Sunrise
 
 
 Software to compile: 
@@ -40,9 +41,9 @@ Progress:
 
 Considerations for CO2 Sensor:
 -----------------------------
-* Minimum readings each 15 minutes.
-* After 1 year you need recalibrate sensor.
-* Each 2 years replace sensor.
+* Readings each 1 or 2 minutes.
+* Calibration according to manufacturer CO2 sensor.
+* Lifetime of NDIR CO2 sensors: 5, 10 or 15 years.
 
 
 Resources:
