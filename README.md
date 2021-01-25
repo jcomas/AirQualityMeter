@@ -46,6 +46,15 @@ Considerations for CO2 Sensor:
 * Lifetime of NDIR CO2 sensors: 5, 10 or 15 years.
 
 
+Other projects:
+--------------
+* [Codos](https://github.com/miguelangelcasanova/codos)
+* [Anaire](https://github.com/anaireorg/anaire-devices) 
+* [eMariete](https://emariete.com/en/home-co2-meter/)
+* [TTNMAD CO2 Free](https://github.com/IoTopenTech/TTNMAD_CO2_FREE) [& this](https://www.medialab-prado.es/en/activities/building-co2-nodes-lorawan-and-ttnmad-v23)
+* [co2meter](https://github.com/miguelfreitas/co2meter) 
+
+
 Resources:
 ---------
 * [IAQ Rating Index](http://www.iaquk.org.uk/ESW/Files/IAQ_Rating_Index.pdf) (english)
@@ -53,3 +62,8 @@ Resources:
 * [Guía para ventilación de las aulas CSIC](https://digital.csic.es/handle/10261/221538) (spanish)
 * [Cómo ventilar las aulas pasando menos frío. Aulas como espacios saludables](https://www.youtube.com/watch?v=1XhTSbLFt1w) (spanish)
 * [CanAirIO Air Quality Sensors Library](https://github.com/kike-canaries/canairio_sensorlib)
+
+
+Commercial products:
+-------------------
+* Aranet 4 [(spanish)](https://www.aranet4.es/) [(english)](https://aranet4.com/)
