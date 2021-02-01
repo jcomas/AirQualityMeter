@@ -55,7 +55,8 @@ Other projects:
 * [co2meter](https://github.com/miguelfreitas/co2meter) 
 * [Medición de CO2](http://www.jorgealiaga.com.ar/?page_id=2864)
 * [M5Stack ESP32 Core Ink + SCD30](https://www.youtube.com/watch?v=im0LNFRrHCg)
-  
+* [CanAirIO Citizen network for monitoring air quality](https://canair.io/)
+
   
 Resources:
 ---------
