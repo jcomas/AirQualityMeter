@@ -37,15 +37,15 @@ Progress:
 * New: Include history graphics
 * New: MQTT integration
 * New: Home Assistant integration
-
-
+  
+  
 Considerations for CO2 Sensor:
 -----------------------------
-* Readings each 1 or 2 minutes.
-* Calibration according to manufacturer CO2 sensor.
+* Readings each 1 or 2 minutes for battery powered devices.
+* Calibration according to manufacturer CO2 sensor (minimum 20 minutes outdoors, avoid to be near persons, vehicles and other contaminants)
 * Lifetime of NDIR CO2 sensors: 5, 10 or 15 years.
-
-
+  
+  
 Other projects:
 --------------
 * [Codos](https://github.com/miguelangelcasanova/codos)
@@ -55,7 +55,8 @@ Other projects:
 * [co2meter](https://github.com/miguelfreitas/co2meter) 
 * [Medición de CO2](http://www.jorgealiaga.com.ar/?page_id=2864)
 * [M5Stack ESP32 Core Ink + SCD30](https://www.youtube.com/watch?v=im0LNFRrHCg)
-
+  
+  
 Resources:
 ---------
 * [IAQ Rating Index](http://www.iaquk.org.uk/ESW/Files/IAQ_Rating_Index.pdf) (english)
