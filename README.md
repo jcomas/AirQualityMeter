@@ -54,7 +54,7 @@ Other projects:
 * [TTNMAD CO2 Free](https://github.com/IoTopenTech/TTNMAD_CO2_FREE) [& this](https://www.medialab-prado.es/en/activities/building-co2-nodes-lorawan-and-ttnmad-v23)
 * [co2meter](https://github.com/miguelfreitas/co2meter) 
 * [Medición de CO2](http://www.jorgealiaga.com.ar/?page_id=2864)
-
+* [M5Stack ESP32 Core Ink + SCD30](https://www.youtube.com/watch?v=im0LNFRrHCg)
 
 Resources:
 ---------
