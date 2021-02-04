@@ -69,4 +69,7 @@ Resources:
 
 Commercial products:
 -------------------
-* Aranet 4 [(spanish)](https://www.aranet4.es/) [(english)](https://aranet4.com/)
+* Aranet 4 [(spanish info)](https://www.aranet4.es/) [(english info)](https://aranet4.com/) [(teardown)](https://kaspars.net/blog/aranet4-teardown)  
+  NDIR sensor: SenseAir Sunrise
+* Carbon Dioxide Detector EM002 [(manufacturer)](https://www.alibaba.com/product-detail/Portable-Digital-Co2-Meter-Co2-Monitor_1600141548089.html?spm=a2700.shop_index.111720.3.ad642356fgKz1j) [(reseller)](https://www.kkmoon.com/p-e9194.html)  
+  NDIR sensor: Honeywell CRIR M1
