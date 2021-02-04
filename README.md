@@ -73,3 +73,4 @@ Commercial products:
   NDIR sensor: SenseAir Sunrise
 * Carbon Dioxide Detector EM002 [(manufacturer)](https://www.alibaba.com/product-detail/Portable-Digital-Co2-Meter-Co2-Monitor_1600141548089.html?spm=a2700.shop_index.111720.3.ad642356fgKz1j) [(reseller)](https://www.kkmoon.com/p-e9194.html)  
   NDIR sensor: Honeywell CRIR M1
+* Temp. RH CO2 Meter 7755 AZ [(info)](https://www.az-instrument.com.tw/en/product-616380/Temp-RH-CO2-Meter-7755-AZ.html)
