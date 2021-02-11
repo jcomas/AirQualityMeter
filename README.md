@@ -57,6 +57,7 @@ Other projects:
 * [M5Stack ESP32 Core Ink + SCD30](https://github.com/hpsaturn/co2_m5coreink)
 * [CanAirIO Citizen network for monitoring air quality](https://canair.io/)
 * [Medidor CO2 DYI. WemosD1-Wifi. Sensor NDIR. Oled. HA](https://www.youtube.com/watch?v=Gk2qnFJ18o8&feature=youtu.be)
+* [Air Particules Monitor](https://sensor.community/en/sensors/airrohr/)
 
   
 Resources:
