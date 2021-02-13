@@ -77,3 +77,4 @@ Commercial products:
   NDIR sensor: Honeywell CRIR M1 / SenseAir S8
 * Temp. RH CO2 Meter 7755 AZ [(info)](https://www.az-instrument.com.tw/en/product-616380/Temp-RH-CO2-Meter-7755-AZ.html)
 * Temtop M2000 Air Quality Monitor [(info)](https://www.elitechustore.com/collections/air-quality-detector/products/temtop-m2000-2nd-generation-air-quality-monitor-for-pm2-5-pm10-particles-co2-hcho-temperature-humidity-settable-audio-alarm-data-export-recording-curve-easy-calibration) [(video)](https://www.youtube.com/watch?v=ITUzYioZhCs)
+* Netatmo [(teardown)](https://www.fictiv.com/teardowns/netatmo-weather-station-teardown-part-2-indoor-module)
