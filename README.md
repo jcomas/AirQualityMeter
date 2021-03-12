@@ -50,7 +50,7 @@ Other projects:
 --------------
 * [Codos](https://github.com/miguelangelcasanova/codos)
 * [Anaire](https://github.com/anaireorg/anaire-devices) 
-* [eMariete](https://emariete.com/en/home-co2-meter/)
+* eMariete [(project)](https://emariete.com/en/home-co2-meter/) [(FAQ Problemas)](https://emariete.com/medidor-casero-co2/#_Tienes_problemas_Preguntas_mas_frecuentes_del_medidor_de_CO2)
 * [TTNMAD CO2 Free](https://github.com/IoTopenTech/TTNMAD_CO2_FREE) [& this](https://www.medialab-prado.es/en/activities/building-co2-nodes-lorawan-and-ttnmad-v23)
 * [co2meter](https://github.com/miguelfreitas/co2meter) 
 * [Medición de CO2](http://www.jorgealiaga.com.ar/?page_id=2864)
