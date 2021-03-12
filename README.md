@@ -59,6 +59,7 @@ Other projects:
 * [Medidor CO2 DYI. WemosD1-Wifi. Sensor NDIR. Oled. HA](https://www.youtube.com/watch?v=Gk2qnFJ18o8&feature=youtu.be)
 * [Air Particules Monitor](https://sensor.community/en/sensors/airrohr/)
 * [Monitoring CO2 using APP (LILYGO TTGO T-Display ESP32 + Bluetooth (includes Sensirion APP) + Sensirion SCD30 CO2)](https://github.com/Sensirion/arduino-ble-gadget/blob/master/documents/SCD30_Monitor_Tutorial.md)
+* [LibreCO2](https://github.com/danielbernalb/LibreCO2)
   
 Resources:
 ---------
