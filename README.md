@@ -60,7 +60,16 @@ Other projects:
 * [Air Particules Monitor](https://sensor.community/en/sensors/airrohr/)
 * [Monitoring CO2 using APP (LILYGO TTGO T-Display ESP32 + Bluetooth (includes Sensirion APP) + Sensirion SCD30 CO2)](https://github.com/Sensirion/arduino-ble-gadget/blob/master/documents/SCD30_Monitor_Tutorial.md)
 * [LibreCO2](https://github.com/danielbernalb/LibreCO2)
-  
+
+
+Icons:
+-----
+* [Cupertino Truetype Font (icons)](https://github.com/flutter/cupertino_icons/blob/master/assets/CupertinoIcons.ttf)
+* [Font Converter (to use TTF o WOFF truetype icons in your C code, supports LVGL)](https://lvgl.io/tools/fontconverter)
+* [truetype2gfx (to convert fonts to Adafruit GFX, you move icons to begin of TrueType font using FontForge)](https://rop.nl/truetype2gfx/)
+* [FontForge (font editor)](https://fontforge.org/en-US/)
+
+
 Resources:
 ---------
 * [IAQ Rating Index](http://www.iaquk.org.uk/ESW/Files/IAQ_Rating_Index.pdf) (english)
