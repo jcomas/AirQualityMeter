@@ -83,7 +83,7 @@ Commercial products:
 -------------------
 * Aranet 4 [(spanish info)](https://www.aranet4.es/) [(english info)](https://aranet4.com/) [(teardown)](https://kaspars.net/blog/aranet4-teardown)  
   NDIR sensor: SenseAir Sunrise
-* Carbon Dioxide Detector EM002 [(manufacturer)](https://www.alibaba.com/product-detail/Portable-Digital-Co2-Meter-Co2-Monitor_1600141548089.html?spm=a2700.shop_index.111720.3.ad642356fgKz1j) [(reseller)](https://www.kkmoon.com/p-e9194.html) [(interactive guide in spanish)](https://view.genial.ly/5fda916d37663f0d6c04ee89)  
+* Carbon Dioxide Detector EM002 [(manufacturer)](https://gd-deyi.en.alibaba.com/product/1600208803526-819921884/DEYI_Indoor_CO2_Meter_Temperature_and_Relative_Humidity_Carbon_Dioxide_Detector_NDIR_Channel_Sensor_Data_Logger_0_9999ppm.html) [(reseller)](https://www.kkmoon.com/p-e9194.html) [(interactive guide in spanish)](https://view.genial.ly/5fda916d37663f0d6c04ee89)  
   NDIR sensor: Honeywell CRIR M1 / SenseAir S8 / Cubic CM1106 / ZyAura ZG09
 * Temp. RH CO2 Meter 7755 AZ [(info)](https://www.az-instrument.com.tw/en/product-616380/Temp-RH-CO2-Meter-7755-AZ.html)
 * Temtop M2000 Air Quality Monitor [(info)](https://www.elitechustore.com/collections/air-quality-detector/products/temtop-m2000-2nd-generation-air-quality-monitor-for-pm2-5-pm10-particles-co2-hcho-temperature-humidity-settable-audio-alarm-data-export-recording-curve-easy-calibration) [(video)](https://www.youtube.com/watch?v=ITUzYioZhCs)
