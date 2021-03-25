@@ -79,7 +79,7 @@ Resources:
 * [Cómo ventilar las aulas pasando menos frío. Aulas como espacios saludables](https://www.youtube.com/watch?v=1XhTSbLFt1w) (spanish)
 * [CanAirIO Air Quality Sensors Library](https://github.com/kike-canaries/canairio_sensorlib)
 * [CO2 expelled by a person seen from a thermal camera](https://amp.rtve.es/noticias/20210312/coronavirus-aerosoles-imagenes/2081740.shtml) (spanish)
-
+* [Improving Indoor Air Quality in California Schools](https://wcec.ucdavis.edu/improving-indoor-air-quality-in-california-schools/)
 
 Commercial products:
 -------------------
