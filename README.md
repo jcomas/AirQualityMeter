@@ -62,6 +62,7 @@ Other projects:
 * [LibreCO2](https://github.com/danielbernalb/LibreCO2)
 * [CO2 Watch](https://emariete.com/en/hairpiece2-meter-co2-wrist-wearable/)
 * [Zigbee + CO2 sensor](https://github.com/diyruz/AirSense)
+* [Wemos D1 Mini + SCD30 + Thingsboard + Telegram](https://github.com/Alitux/solarco2)
 
 Icons:
 -----
