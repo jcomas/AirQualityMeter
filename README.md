@@ -63,6 +63,7 @@ Other projects:
 * [CO2 Watch](https://emariete.com/en/hairpiece2-meter-co2-wrist-wearable/)
 * [Zigbee + CO2 sensor](https://github.com/diyruz/AirSense)
 * [Wemos D1 Mini + SCD30 + Thingsboard + Telegram](https://github.com/Alitux/solarco2)
+* [Upload your CO2 data to public server and see on map](https://covid-co2-tracker.herokuapp.com/home)
 
 Icons:
 -----
