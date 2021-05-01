@@ -65,6 +65,7 @@ Other projects:
 * [Wemos D1 Mini + SCD30 + Thingsboard + Telegram](https://github.com/Alitux/solarco2)
 * [Upload your CO2 data to public server and see on map](https://covid-co2-tracker.herokuapp.com/home)
 * Projects using traffic lights: [Project 1](https://github.com/dennisheitmann/CO2-Ampel), [Project 2](https://github.com/Eisbaeeer/CO2light)
+* Power plug model: [Components](http://pits.tgd-consulting.de/#Komponenten), [Source code](https://github.com/TGD-Consulting/PiTS-ESP8226), [3D model](https://cults3d.com/en/3d-model/gadget/co2-light-ring)
 
 Icons:
 -----
