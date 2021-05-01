@@ -64,6 +64,7 @@ Other projects:
 * [Zigbee + CO2 sensor](https://github.com/diyruz/AirSense)
 * [Wemos D1 Mini + SCD30 + Thingsboard + Telegram](https://github.com/Alitux/solarco2)
 * [Upload your CO2 data to public server and see on map](https://covid-co2-tracker.herokuapp.com/home)
+* Projects using traffic lights: [Project 1](https://github.com/dennisheitmann/CO2-Ampel), [Project 2](https://github.com/Eisbaeeer/CO2light)
 
 Icons:
 -----
