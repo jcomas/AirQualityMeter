@@ -88,6 +88,7 @@ Resources:
 Commercial products:
 -------------------
 * Comparative table of commercial products [(japanese)](https://covidco2jp.wordpress.com/2021/01/17/co2/)
+* [Teardown of several CO2 meters](https://wiki.liutyi.info/display/CO2/Monitors)
 * Aranet 4 [(spanish info)](https://www.aranet4.es/) [(english info)](https://aranet4.com/) [(teardown)](https://kaspars.net/blog/aranet4-teardown) [(forum)](https://forum.aranet.com/)   
   NDIR sensor: SenseAir Sunrise
 * Carbon Dioxide Detector EM002 [(manufacturer)](https://gd-deyi.en.alibaba.com/product/1600208803526-819921884/DEYI_Indoor_CO2_Meter_Temperature_and_Relative_Humidity_Carbon_Dioxide_Detector_NDIR_Channel_Sensor_Data_Logger_0_9999ppm.html) [(reseller)](https://www.kkmoon.com/p-e9194.html) [(interactive guide in spanish)](https://view.genial.ly/5fda916d37663f0d6c04ee89)  
