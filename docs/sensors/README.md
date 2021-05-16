@@ -1,5 +1,5 @@
-NDIR CO2 Sensors Comparative
-============================
+NDIR & PAS CO2 Sensors Comparative
+==================================
 |Manufacturer             |Model  (article number)|Effective range|Accuracy                     |Interface     |Power supply|Average current|For battery project|Preheat time|Response time|Minimum lifespan|Sensors                   |Price end user (excluded shipping)|Product page                                                                                          |Datasheet/Manual                                                                                                                                                                                    |Shop 1 (end user)                                                                                             |Shop 2 (end user)                                                                                         |
 |-------------------------|-----------------------|---------------|-----------------------------|--------------|------------|---------------|-------------------|------------|-------------|----------------|--------------------------|----------------------------------|------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
 |Amphenol Advanced Sensors|T6713                  |400-2000 ppm   |± (25 ppm + 3% reading value)|UART, I2C, PWM|4.5-5.5 VDC |20 mA          |                   |< 120 s     |< 180 s (90%)|15 years        |CO2                       |48.19 - 70.99 €                   |https://www.amphenol-sensors.com/en/telaire/co2/525-co2-sensor-modules/3399-t6713                     |https://www.amphenol-sensors.com/en/literature/276-telaire/4-co2/5-t6700/297-telaire-t6713-miniature-co2-sensor-module-datasheet                                                                    |https://www.mouser.es/ProductDetail/Amphenol-Advanced-Sensors/T6713/?qs=N10xTRV9dj26U%252BpBD9TY%2FA%3D%3D    |https://www.digikey.es/product-detail/en/amphenol-advanced-sensors/T6713/235-1373-ND/5027891              |
@@ -25,3 +25,7 @@ NDIR CO2 Sensors Comparative
 * For power supply you have to consider peak consumption, see datasheet of the manufacturer
 
 
+**Abreviations**
+
+* PAS = Photoacoustic spectroscopy
+* NDIR = Non-dispersive infrared spectrometer
