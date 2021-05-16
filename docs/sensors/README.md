@@ -17,4 +17,11 @@ CO2 Sensors Comparative
 |Winsen                   |MH-Z19C                |400-5000 ppm   |± (50 ppm + 5% reading value)|UART, PWM     |4.9-5.1 VDC |< 40 mA        |                   |60 s        |< 120 s (90%)|5 years         |CO2                       |17.09€                            |https://www.winsen-sensor.com/sensors/co2-sensor/mh-z19c.html                                         |https://www.winsen-sensor.com/d/files/infrared-gas-sensor/mh-z19c-pins-type-co2-manual-ver1_0.pdf                                                                                                   |https://es.aliexpress.com/item/1005001947070873.html                                                          |                                                                                                          |
 |ZyAura (Radiant)         |ZG09                   |400-10000 ppm  |± (50 ppm + 3% reading value)|UART, I2C, PWM|4.5-5.5 VDC |< 34 mA        |                   |30 s        |60s          |                |CO2                       |27.11€                            |http://www.zyaura.com/products/ZG09.asp                                                               |http://www.zyaura.com/support/manual/pdf/ZyAura_CO2_Monitor_Carbon_Dioxide_ZG09%20English%20user%20manual_1808.pdf                                                                                  |https://es.aliexpress.com/item/4000215863926.html                                                             |                                                                                                          |
 
+**Notes**
+
+* Below 400 ppm measure was excluded in range, some sensors provide measure but it isn't effective.  
+* Accuracy indicated is the typical but the error can be a little more, especially for values more than 2000 ppm.  
+* Precision for all these sensors is 1 ppm but the interesting is the accuracy  
+* For power supply you have to consider peak consumption, see datasheet of the manufacturer
+
 
