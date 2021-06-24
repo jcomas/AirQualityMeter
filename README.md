@@ -92,6 +92,7 @@ Commercial products:
 * [Teardown of several CO2 meters](https://wiki.liutyi.info/display/CO2/Monitors)
 * Aranet 4 [(spanish info)](https://www.aranet4.es/) [(english info)](https://aranet4.com/) [(teardown)](https://kaspars.net/blog/aranet4-teardown) [(forum)](https://forum.aranet.com/)   
   NDIR sensor: SenseAir Sunrise
+* CO2Panel PI [(spanish info)](https://co2panel.shop/products/co2panel-pi-medidor-co2-para-colegios-de-bajo-coste-led-informativo-y-conexion-a-internet)  
 * Carbon Dioxide Detector EM002 [(manufacturer)](https://gd-deyi.en.alibaba.com/product/1600208803526-819921884/DEYI_Indoor_CO2_Meter_Temperature_and_Relative_Humidity_Carbon_Dioxide_Detector_NDIR_Channel_Sensor_Data_Logger_0_9999ppm.html) [(reseller)](https://www.kkmoon.com/p-e9194.html) [(interactive guide in spanish)](https://view.genial.ly/5fda916d37663f0d6c04ee89)  
   NDIR sensor: Honeywell CRIR M1 / SenseAir S8 / Cubic CM1106 / ZyAura ZG09
 * Dienmern DM306C [(manufacturer)](http://www.langder.com/productshow.asp?showidd=74&ClassID2=) [(distributor)](https://www.alibaba.com/product-detail/Carbon-Dioxide-Detector-CO2-Detector-Dienmern_1600147388764.html)  
