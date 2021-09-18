@@ -46,6 +46,11 @@ Considerations for CO2 Sensor:
 * Lifetime of NDIR CO2 sensors: 5, 10 or 15 years.
   
   
+Easy projects:
+-------------
+* [Aireamos Makers](https://www.aireamos.org/aireamos-makers/)
+
+  
 Other projects:
 --------------
 * [Codos](https://github.com/miguelangelcasanova/codos)
@@ -67,6 +72,7 @@ Other projects:
 * Projects using traffic lights: [Project 1](https://github.com/dennisheitmann/CO2-Ampel), [Project 2](https://github.com/Eisbaeeer/CO2light)
 * Power plug model: [Components](http://pits.tgd-consulting.de/#Komponenten), [source code](https://github.com/TGD-Consulting/PiTS-ESP8226), [3D model](https://cults3d.com/en/3d-model/gadget/co2-light-ring), [assembly](https://forum-raspberrypi.de/forum/thread/49535-guenstige-co2-ampel-im-eigenbau/?postID=488016#post488016), [schematic](https://forum-raspberrypi.de/forum/thread/49535-guenstige-co2-ampel-im-eigenbau/?postID=454325#post454325)
 * [French makers](https://nousaerons.fr/makersco2/)
+* [Medidor de CO2](https://github.com/droyktton/medidorCO2)
 
 Icons:
 -----
@@ -86,6 +92,7 @@ Resources:
 * [CanAirIO Air Quality Sensors Library](https://github.com/kike-canaries/canairio_sensorlib)
 * [CO2 expelled by a person seen from a thermal camera](https://amp.rtve.es/noticias/20210312/coronavirus-aerosoles-imagenes/2081740.shtml) (spanish)
 * [Improving Indoor Air Quality in California Schools](https://wcec.ucdavis.edu/improving-indoor-air-quality-in-california-schools/)
+* [Calculadora de CO2](https://droyktton.github.io/loscoihues/ventilacion/CO2ACHProbInfeccionV3.html)
 
 Commercial products:
 -------------------
