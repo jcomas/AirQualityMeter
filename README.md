@@ -16,7 +16,6 @@ Goals:
 Hardware (first version):
 ------------------------
 * [M5Stack Core2 ESP32 IoT Development Kit](https://docs.m5stack.com/#/en/core/core2?id=m5core2)
-* [TVOC/eCO2 Gas Sensor Unit (SGP30)](https://docs.m5stack.com/#/en/unit/tvoc?id=tvoceco2)
 * Temperature, humidity & barometric pressure sensors: [ENV II Unit with Temperature Humidity Environment Sensor (SHT30+BMP280)](https://docs.m5stack.com/#/en/unit/envII?id=env-ii)
 * NDIR CO2 Sensors: Sensirion SCD30, SenseAir Sunrise
 
