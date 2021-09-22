@@ -84,6 +84,7 @@ Icons:
 Resources:
 ---------
 * [Daily global CO2](https://www.esrl.noaa.gov/gmd/ccgg/trends/gl_trend.html)
+* [Carbon dioxide forecasts](https://atmosphere.copernicus.eu/charts/cams/carbon-dioxide-forecasts?facets=undefined&time=2021091900,3,2021091903&projection=classical_global&layer_name=composition_co2_surface)
 * [IAQ Rating Index](http://www.iaquk.org.uk/ESW/Files/IAQ_Rating_Index.pdf) (english)
 * [Aireamos project](https://www.aireamos.org/) (spanish)
 * [Guía para ventilación de las aulas CSIC](https://digital.csic.es/handle/10261/221538) (spanish)
