@@ -70,6 +70,7 @@ Other projects:
 * [Upload your CO2 data to public server and see on map](https://covid-co2-tracker.herokuapp.com/home)
 * Projects using traffic lights: [Project 1](https://github.com/dennisheitmann/CO2-Ampel), [Project 2](https://github.com/Eisbaeeer/CO2light)
 * Power plug model: [Components](http://pits.tgd-consulting.de/#Komponenten), [source code](https://github.com/TGD-Consulting/PiTS-ESP8226), [3D model](https://cults3d.com/en/3d-model/gadget/co2-light-ring), [assembly](https://forum-raspberrypi.de/forum/thread/49535-guenstige-co2-ampel-im-eigenbau/?postID=488016#post488016), [schematic](https://forum-raspberrypi.de/forum/thread/49535-guenstige-co2-ampel-im-eigenbau/?postID=454325#post454325)
+* [DIY ESP Easy CO2 Device](https://www.laboiteaformes.fr/acheter-capteur-de-co2/)
 * [French makers](https://nousaerons.fr/makersco2/)
 * [Medidor de CO2](https://github.com/droyktton/medidorCO2)
 
