@@ -93,6 +93,7 @@ Resources:
 * [CO2 expelled by a person seen from a thermal camera](https://amp.rtve.es/noticias/20210312/coronavirus-aerosoles-imagenes/2081740.shtml) (spanish)
 * [Improving Indoor Air Quality in California Schools](https://wcec.ucdavis.edu/improving-indoor-air-quality-in-california-schools/)
 * [Calculadora de CO2](https://droyktton.github.io/loscoihues/ventilacion/CO2ACHProbInfeccionV3.html)
+* [CO2 French Working Group](https://projetco2.fr/)
 
 Commercial products:
 -------------------
