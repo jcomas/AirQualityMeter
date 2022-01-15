@@ -52,7 +52,7 @@ Easy projects:
   
 Other projects:
 --------------
-* [eMariete - several CO2 projects](https://emariete.com/en/) [(CO2 Easy Meter)](https://emariete.com/en/diy-co2-monitor-wifi/)  [(Gadget CO2 Meter)](https://emariete.com/en/mobile-co2-meter-esp32-sensirion-scd30-basic/)  [(FAQ problemas del Medidor de CO2 con ESP Easy)](https://emariete.com/medidor-casero-co2/#_Tienes_problemas_Preguntas_mas_frecuentes_del_medidor_de_CO2)
+* [eMariete - several CO2 projects](https://emariete.com/en/) [(CO2 Easy Meter)](https://emariete.com/en/diy-co2-monitor-wifi/)  [(Gadget CO2 Meter)](https://emariete.com/en/meter-co2-gadget/)  [(FAQ problemas del Medidor de CO2 con ESP Easy)](https://emariete.com/medidor-casero-co2/#_Tienes_problemas_Preguntas_mas_frecuentes_del_medidor_de_CO2)
 * [CanAirIO Citizen network for monitoring air quality](https://canair.io/)
 * [Codos](https://github.com/miguelangelcasanova/codos)
 * [Anaire](https://github.com/anaireorg/anaire-devices) 
