@@ -73,6 +73,7 @@ Other projects:
 * [DIY ESP Easy CO2 Device](https://www.laboiteaformes.fr/acheter-capteur-de-co2/)
 * [French makers](https://nousaerons.fr/makersco2/)
 * [Medidor de CO2](https://github.com/droyktton/medidorCO2)
+* [Sensor de CO2 para colegios](https://www.medialab-uniovi.es/pro-sensorco2.php)
 
 Icons:
 -----
