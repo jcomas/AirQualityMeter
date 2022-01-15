@@ -52,14 +52,14 @@ Easy projects:
   
 Other projects:
 --------------
+* [eMariete - several CO2 projects](https://emariete.com/en/) [(CO2 Easy Meter)](https://emariete.com/en/diy-co2-monitor-wifi/)  [(Gadget CO2 Meter)](https://emariete.com/en/mobile-co2-meter-esp32-sensirion-scd30-basic/)  [(FAQ problemas del Medidor de CO2 con ESP Easy)](https://emariete.com/medidor-casero-co2/#_Tienes_problemas_Preguntas_mas_frecuentes_del_medidor_de_CO2)
+* [CanAirIO Citizen network for monitoring air quality](https://canair.io/)
 * [Codos](https://github.com/miguelangelcasanova/codos)
 * [Anaire](https://github.com/anaireorg/anaire-devices) 
-* eMariete [(project)](https://emariete.com/en/home-co2-meter/) [(FAQ problemas)](https://emariete.com/medidor-casero-co2/#_Tienes_problemas_Preguntas_mas_frecuentes_del_medidor_de_CO2)
 * [TTNMAD CO2 Free](https://github.com/IoTopenTech/TTNMAD_CO2_FREE) [& this](https://www.medialab-prado.es/en/activities/building-co2-nodes-lorawan-and-ttnmad-v23)
 * [co2meter](https://github.com/miguelfreitas/co2meter) 
 * [Medición de CO2](http://www.jorgealiaga.com.ar/?page_id=2864)
 * [M5Stack ESP32 Core Ink + SCD30](https://github.com/hpsaturn/co2_m5coreink)
-* [CanAirIO Citizen network for monitoring air quality](https://canair.io/)
 * [Medidor CO2 DYI. WemosD1-Wifi. Sensor NDIR. Oled. HA](https://www.youtube.com/watch?v=Gk2qnFJ18o8&feature=youtu.be)
 * [Air Particules Monitor](https://sensor.community/en/sensors/airrohr/)
 * [Monitoring CO2 using APP (LILYGO TTGO T-Display ESP32 + Bluetooth (includes Sensirion APP) + Sensirion SCD30 CO2)](https://github.com/Sensirion/arduino-ble-gadget/blob/master/documents/SCD30_Monitor_Tutorial.md)
